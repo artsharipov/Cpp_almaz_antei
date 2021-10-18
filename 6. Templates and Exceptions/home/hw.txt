@@ -1,0 +1,20 @@
+Создать свой класс вектор на основе класса stl::vector(https://en.cppreference.com/w/cpp/container/vector)
+Реализовать:
+-operator[]
+-operator==
+-front()
+-back()
+-begin()
+-end()
+-clear()
+-insert()
+-erase()
+-push_back()
+-pop_back()
+-resize()
+-empty()
+-reverse()
+-capacity()
+-size()
+-shrink_to_fit()
+
