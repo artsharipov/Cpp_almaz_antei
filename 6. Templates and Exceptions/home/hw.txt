@@ -13,7 +13,7 @@
 -pop_back()
 -resize()
 -empty()
--reverse()
+-reserve()
 -capacity()
 -size()
 -shrink_to_fit()
