@@ -7,9 +7,9 @@ class Fraction {
       fraction(): num(0), den(0) {}
       void enter()
       {
-         cout << "Ввод первой дроби";
+         cout << "Enter 1st fraction:";
          cin >> a >> b;
-         cout << "Ввод второй дроби";
+         cout << "Enter 2nd fraction:";
          cin >> c >> d;
       }
  
@@ -41,7 +41,7 @@ class Fraction {
 					c1 = (nok/b)*c;
 					
 					if (a1 == c1)
-        			cout << "equals" << "\n";
+        			cout << "Equals" << "\n";
     			if (a1 > c1)
         			cout << "First is greater than second" << "\n";
     			if (a1 < c1)
